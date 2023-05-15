@@ -39,7 +39,7 @@ a {
 }
 
 body {
-  background-image: url(./img/Знімок\ екрана\ 2023-04-20\ о\ 06.00.51.png);
+  background-color: #C0C0C0;
 }
 
 h1 {
@@ -93,9 +93,9 @@ h1 {
   font-size: 24px;
   line-height: 28px;
 
-  background-color: green;
-  border-radius: 20px;
-  border-color: green;
+  background-color: #F2742A;
+
+  border-color: #F2742A;
   padding-top: 22px;
   padding-bottom: 22px;
   padding-left: 40px;
@@ -111,8 +111,7 @@ h1 {
   font-size: 24px;
   line-height: 28px;
 
-  background-color: green;
-  border-radius: 20px;
+  background-color: #F2742A;
   border-color: #FFF6D5;
   padding-top: 22px;
   padding-bottom: 22px;
